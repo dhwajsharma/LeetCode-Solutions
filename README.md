@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-## My leetcode solutions in java.
+## My leetcode solutions.
 ## Live Coding Practice
 * [Pramp](https://www.pramp.com/ref/gt4)
 * [Gainlo](http://www.gainlo.co/#!/)
