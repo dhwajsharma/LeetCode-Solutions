@@ -35,7 +35,6 @@ class Solution {
             }
         }
             return level_sum;
-        
     }
 }
 
